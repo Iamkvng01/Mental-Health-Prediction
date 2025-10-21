@@ -1,0 +1,34 @@
+# Ignore virtual environment folders
+venv/
+env/
+.venv/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Model and data files (large or sensitive)
+*.pkl
+*.h5
+*.sav
+*.joblib
+*.csv
+*.xlsx
+
+# Streamlit configuration cache
+.streamlit/secrets.toml
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/

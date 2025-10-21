@@ -1,0 +1,18 @@
+[theme]
+
+# Calm Health Theme Palette 🌿
+
+# Used to style primary interface elements (buttons, sliders, etc.)
+primaryColor = "#7BC6B2"  # Soft Mint Green
+
+# Background color for the main container.
+backgroundColor = "#F6FAF9"  # Calm Off-White with a hint of mint
+
+# Used as the background for most widgets (e.g., sidebar, input boxes).
+secondaryBackgroundColor = "#D8EAE3"  # Light Sage Green
+
+# Font color for the page.
+textColor = "#1B2B2A"  # Deep Slate Gray for readability
+
+# Font family
+font = "sans serif"
